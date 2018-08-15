@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.hitrust.com.tw/G015/Mobile/Plugin/template.git"
+    "url": "https://github.com/ssss80119/template.git"
   },
-  "homepage": "https://gitlab.hitrust.com.tw/G015/Mobile/Plugin/template",
+  "homepage": "https://github.com/ssss80119/template",
   "keywords": [
     "ecosystem:cordova",
     "cordova:template"
